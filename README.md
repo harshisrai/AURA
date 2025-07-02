@@ -5,9 +5,9 @@ Autonomous RAG for Financial Analysis
 
 For code & videos: https://drive.google.com/drive/folders/1zlk75DLOMGkvq8CcpdNrOKV-2dHPWoMm?usp=sharing 
 
-To run the server we used for testing run main.py, this will initialize the PathwayVectorServer
-To run the backend, first create a python environment and install from requirements.txt. Replace the pathway library folder in the environment from the one provided in the zip.
-To run the backend, run the command python main.py in the server folder
+* To run the server we used for testing run main.py, this will initialize the PathwayVectorServer
+* To run the backend, first create a python environment and install from requirements.txt. Replace the pathway library folder in the environment from the one provided in the zip.
+* To run the backend, run the command python main.py in the server folder
 *Note: drive link shared due to large file sizes.*
 
 ---
