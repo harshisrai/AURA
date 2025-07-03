@@ -2,13 +2,16 @@
 Autonomous RAG for Financial Analysis
 
 <img src="pic/aura.png" alt="aura" width="600" height="300" />
-
-For code & videos: https://drive.google.com/drive/folders/1zlk75DLOMGkvq8CcpdNrOKV-2dHPWoMm?usp=sharing 
+<br/>
+Demo: <a href="https://drive.google.com/file/d/1_Ilm0nZYD4hxCD9GABZTRU8Zq6MU2KZ7/view?usp=sharing">Video</a>
+<br/>
+For code & detailed videos: <a href="https://drive.google.com/drive/folders/1zlk75DLOMGkvq8CcpdNrOKV-2dHPWoMm?usp=sharing">Click Here </a>
+<br/>
+*Note: drive link shared due to large file sizes.*
 
 * To run the server we used for testing run main.py, this will initialize the PathwayVectorServer
 * To run the backend, first create a python environment and install from requirements.txt. Replace the pathway library folder in the environment from the one provided in the zip.
 * To run the backend, run the command python main.py in the server folder
-*Note: drive link shared due to large file sizes.*
 
 ---
 # Architecture 
